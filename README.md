@@ -1,12 +1,12 @@
-#al
+# al
 Async Labs task API
 Compare similarity between given number of random bacon ipsum texts
 
-##Installation
+## Installation
     git clone https://github.com/hrc099/al.git
     npm install
 
-##Build & run
+## Build & run
 To build
 
     npm run build
@@ -15,7 +15,7 @@ To build and run
 
     npm run start
 
-##Usage
+## Usage
 API base url: http://localhost:5050/api/
 
 To use, send a request to base url with query parameters:
