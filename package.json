@@ -13,7 +13,7 @@
   "dependencies": {
     "@types/express": "^4.17.1",
     "@types/node": "^12.7.5",
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "dice-coefficient": "^1.0.4",
     "express": "^4.17.1",
     "express-validator": "^6.2.0",
